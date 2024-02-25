@@ -12,7 +12,7 @@
                 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
                     <xsl:apply-templates/>
                 </math>
-                <a class="btn btn-red absolute btn__root" href="/">На главную</a>
+                <a class="btn btn-red absolute btn__root" href="../">На главную</a>
             </body>
         </html>
 

@@ -8,7 +8,7 @@
             </head>
             <body>
                 <h4 id="author" title="GossJS">Низаев Ильвир</h4>
-                <a class="btn btn-red absolute btn__root" href="/">На главную</a>
+                <a class="btn btn-red absolute btn__root" href="../">На главную</a>
                 <xsl:apply-templates/>
             </body>
         </html>
