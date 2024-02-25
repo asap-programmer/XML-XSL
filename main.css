@@ -1,0 +1,59 @@
+.container {
+  max-width: 1210px;
+  margin: 0 auto;
+  padding: 0 5px 0 5px;
+}
+header {
+  padding: 1rem;
+  background-color: #1f2937;
+}
+
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.labs {
+  margin-top: 3rem;
+}
+#author {
+  text-align: left;
+  padding-left: 1em;
+}
+.labs__card {
+  border-radius: 0.2em;
+  padding: 2em 1em 2.5em 1em;
+  background-color: #1f2937;
+}
+.labs__title {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.labs__header {
+  position: relative;
+  height: 3rem;
+  border-bottom: 1px solid #fff;
+}
+
+.labs__card h2 {
+  text-align: center;
+}
+.labs__card p {
+  position: absolute;
+  right: 0.25rem;
+  top: 0.25rem;
+}
+.labs__content {
+  padding-top: 2em;
+  list-style: none;
+  text-align: center;
+}
+.labs__content li {
+  display: inline-block;
+  margin-left: 0.5em;
+}
+.labs__content li:first-child {
+  margin-left: 0;
+}
